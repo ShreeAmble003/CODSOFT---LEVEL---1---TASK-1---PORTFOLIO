@@ -10,7 +10,7 @@ Table of Contents :
 • Contributor
 
 Description :
-This portfolio website serves as a platform to display my projects, skills, and experiences in web development. It is built using modern web technologies such as HTML5, CSS3, and JavaScript.
+This portfolio website serves as a platform to display my projects, skills, and experiences in web development. It is built using modern web technologies such as HTML5, CSS, and JavaScript.
 
 Features :
 • Responsive design: The portfolio is optimized for various screen sizes, including desktops, tablets, and mobile devices.
